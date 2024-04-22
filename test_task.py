@@ -48,7 +48,7 @@ print(count_prime_number_in_range(10, 100))
 
 
 # подзадача 3
-# работа с классом "Точка"
+# работа с классом "Point"
 
 class Point:
 
